@@ -1,0 +1,240 @@
+{
+    "Andhra Pradesh": {
+        "Vijayawada": {
+            "wind": 50,
+            "zone": "III",
+            "max": 45,
+            "min": 15
+        },
+        "Visakhapatnam": {
+            "wind": 50,
+            "zone": "II",
+            "max": 40,
+            "min": 18
+        }
+    },
+    "Assam": {
+        "Guwahati": {
+            "wind": 47,
+            "zone": "V",
+            "max": 38,
+            "min": 7
+        },
+        "Dibrugarh": {
+            "wind": 47,
+            "zone": "V",
+            "max": 37,
+            "min": 6
+        }
+    },
+    "Bihar": {
+        "Patna": {
+            "wind": 47,
+            "zone": "IV",
+            "max": 43,
+            "min": 5
+        },
+        "Gaya": {
+            "wind": 39,
+            "zone": "III",
+            "max": 45,
+            "min": 4
+        }
+    },
+    "Chandigarh": {
+        "Chandigarh": {
+            "wind": 47,
+            "zone": "IV",
+            "max": 44,
+            "min": 2
+        }
+    },
+    "Delhi": {
+        "New Delhi": {
+            "wind": 47,
+            "zone": "IV",
+            "max": 48,
+            "min": 4
+        }
+    },
+    "Gujarat": {
+        "Ahmedabad": {
+            "wind": 39,
+            "zone": "III",
+            "max": 45,
+            "min": 8
+        },
+        "Bhuj": {
+            "wind": 50,
+            "zone": "V",
+            "max": 42,
+            "min": 5
+        },
+        "Surat": {
+            "wind": 44,
+            "zone": "III",
+            "max": 40,
+            "min": 12
+        }
+    },
+    "Karnataka": {
+        "Bangalore": {
+            "wind": 33,
+            "zone": "II",
+            "max": 37,
+            "min": 13
+        },
+        "Mangalore": {
+            "wind": 39,
+            "zone": "III",
+            "max": 36,
+            "min": 20
+        }
+    },
+    "Kerala": {
+        "Thiruvananthapuram": {
+            "wind": 39,
+            "zone": "III",
+            "max": 36,
+            "min": 20
+        },
+        "Kochi": {
+            "wind": 39,
+            "zone": "III",
+            "max": 35,
+            "min": 20
+        }
+    },
+    "Madhya Pradesh": {
+        "Bhopal": {
+            "wind": 39,
+            "zone": "II",
+            "max": 44,
+            "min": 6
+        },
+        "Indore": {
+            "wind": 39,
+            "zone": "II",
+            "max": 43,
+            "min": 6
+        }
+    },
+    "Maharashtra": {
+        "Mumbai": {
+            "wind": 44,
+            "zone": "III",
+            "max": 42,
+            "min": 16
+        },
+        "Pune": {
+            "wind": 39,
+            "zone": "III",
+            "max": 40,
+            "min": 6
+        },
+        "Nagpur": {
+            "wind": 44,
+            "zone": "II",
+            "max": 48,
+            "min": 6
+        }
+    },
+    "Odisha": {
+        "Bhubaneswar": {
+            "wind": 50,
+            "zone": "III",
+            "max": 42,
+            "min": 12
+        },
+        "Cuttack": {
+            "wind": 50,
+            "zone": "III",
+            "max": 42,
+            "min": 12
+        }
+    },
+    "Punjab": {
+        "Amritsar": {
+            "wind": 47,
+            "zone": "IV",
+            "max": 46,
+            "min": -1
+        },
+        "Ludhiana": {
+            "wind": 47,
+            "zone": "IV",
+            "max": 46,
+            "min": 0
+        }
+    },
+    "Rajasthan": {
+        "Jaipur": {
+            "wind": 47,
+            "zone": "II",
+            "max": 45,
+            "min": 2
+        },
+        "Jodhpur": {
+            "wind": 47,
+            "zone": "II",
+            "max": 46,
+            "min": 3
+        }
+    },
+    "Tamil Nadu": {
+        "Chennai": {
+            "wind": 50,
+            "zone": "III",
+            "max": 40,
+            "min": 18
+        },
+        "Coimbatore": {
+            "wind": 39,
+            "zone": "III",
+            "max": 38,
+            "min": 15
+        }
+    },
+    "Telangana": {
+        "Hyderabad": {
+            "wind": 44,
+            "zone": "II",
+            "max": 43,
+            "min": 10
+        }
+    },
+    "Uttar Pradesh": {
+        "Lucknow": {
+            "wind": 47,
+            "zone": "III",
+            "max": 45,
+            "min": 3
+        },
+        "Varanasi": {
+            "wind": 47,
+            "zone": "III",
+            "max": 45,
+            "min": 5
+        },
+        "Agra": {
+            "wind": 47,
+            "zone": "III",
+            "max": 46,
+            "min": 2
+        }
+    },
+    "West Bengal": {
+        "Kolkata": {
+            "wind": 50,
+            "zone": "III",
+            "max": 40,
+            "min": 10
+        },
+        "Darjeeling": {
+            "wind": 47,
+            "zone": "IV",
+            "max": 28,
+            "min": -2
+        }
+    }
+}
