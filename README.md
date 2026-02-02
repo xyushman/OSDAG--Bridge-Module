@@ -12,7 +12,8 @@ A PyQt6-based bridge design module for OSDAG (Open Steel Design and Graphics). T
 
 ## Video Demonstration
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P3kY5P5_y8E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Demo Video](https://img.youtube.com/vi/P3kY5P5_y8E/maxresdefault.jpg)](https://www.youtube.com/watch?v=P3kY5P5_y8E)
+
 
 
 ## Prerequisites
