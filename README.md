@@ -11,8 +11,7 @@ A PyQt6-based bridge design module for OSDAG (Open Steel Design and Graphics). T
 - **Custom Loading**: Support for custom user-defined environmental parameters.
 
 ## Video Demonstration
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P3kY5P5_y8E?si=j6XOP3jrrME84aqL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P3kY5P5_y8E?si=j6XOP3jrrME84aqL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+- ## CLICK ON THE IMAGE 
 [![Demo Video](https://img.youtube.com/vi/P3kY5P5_y8E/maxresdefault.jpg)](https://www.youtube.com/watch?v=P3kY5P5_y8E)
 
 
