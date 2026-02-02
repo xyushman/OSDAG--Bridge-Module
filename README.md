@@ -10,6 +10,11 @@ A PyQt6-based bridge design module for OSDAG (Open Steel Design and Graphics). T
 - **Validation**: Real-time validation for structural inputs (Span, Carriageway Width) with IRC-compliant warnings (e.g., Skew Angle).
 - **Custom Loading**: Support for custom user-defined environmental parameters.
 
+## Video Demonstration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P3kY5P5_y8E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Prerequisites
 
 - **Python 3.10** or higher.
